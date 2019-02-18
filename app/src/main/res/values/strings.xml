@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Register and Login</string>
+    <!-- Strings related to login -->
+    <string name="login_title">Login</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_remember_me">Remember Me</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="new_account">No account yet? Create one</string>
+
+    <!-- strings for registration page -->
+    <string name="registration_title">Registration</string>
+    <string name="registration_first_name">First Name</string>
+    <string name="registration_last_name">Last Name</string>
+    <string name="registration_email">Email Address</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_confirm_password">Confirm Password</string>
+    <string name="registration_birth_date">Birth Date</string>
+    <string name="registration_button">Create Account</string>
+    <string name="registration_login_link">Already a member? Login</string>
+    <string name="registration_result">Your Registration is Successfully</string>
+
+    <!-- strings for error messages -->
+    <string name="error_min_length">At least 3 characters</string>
+    <string name="error_min_length_password">At least 5 characters</string>
+    <string name="error_max_length">Limit of 30 characters</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">Incorrect Password</string>
+    <string name="error_match_password">Passwords must match</string>
+
+    <!-- strings for home page -->
+    <string name="home_title">Home</string>
+    <string name="home_header">Welcome</string>
+
+    <!-- strings for splash page-->
+    <string name="splash_image">Picture of Lock</string>
+</resources>
